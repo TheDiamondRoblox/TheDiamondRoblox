@@ -6,10 +6,4 @@
         <img src="https://gyazo.com/e2e980218145d7018fbe7022b83465d3.png" alt="Profile Image" class="profile-img">
         <p>If you need help in servers I moderate, feel free to reach out via DMs. As a staff member, I exercise my best practices to assist. I acknowledge my responsibilities as a moderator, so don't hesitate to contact me for any moderation-related help. I have years of experience fighting against injustice, delivering justice, conducting investigations, and enforcing rules and terms of service.</p>
     </blockquote>
-
-    <div class="response-table">
-        <p><span class="dot green-dot"></span>Online - Few Seconds</p>
-        <p><span class="dot yellow-dot"></span>Idle - Few minutes / AFK</p>
-        <p><span class="dot red-dot"></span>Dnd - Few hours</p>
-    </div>
 </body>
