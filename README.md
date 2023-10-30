@@ -1,51 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About TheDiamondRoblox</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        .profile-img {
-            width: 100%;
-            max-width: 400px;
-            height: auto;
-            margin: 20px 0;
-        }
-
-        .response-table {
-            margin-top: 20px;
-        }
-
-        .dot {
-            height: 20px;
-            width: 20px;
-            border-radius: 50%;
-            display: inline-block;
-            margin-right: 10px;
-        }
-
-        .green-dot {
-            background-color: green;
-        }
-
-        .yellow-dot {
-            background-color: yellow;
-        }
-
-        .red-dot {
-            background-color: red;
-        }
-    </style>
-</head>
-
 <body>
     <h1>About TheDiamondRoblox</h1>
     <blockquote>
@@ -61,5 +13,3 @@
         <p><span class="dot red-dot"></span>Dnd - Few hours</p>
     </div>
 </body>
-
-</html>
