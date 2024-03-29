@@ -21,7 +21,7 @@ If you need help in servers I moderate, feel free to reach out via DMs. As a sta
 | Investigations Lead     | 3,500+    | In-detail investigations done in order to keep you safe while you don't even know!|
 | Mentored            | 150+    | Amount of people I have mentored one-on-one throughout.|
 | Interviewees Conducted | 120+      | This is how many interviews I have conducted in a professional environment.|
-| Thank you's Received    | 10,000+   | I've been thanked so many times, I put 200% efforts when you put 100%.|
+| Thank you's Received    | 10,000+   | I appreciate each and every thank you given to me.|
 
 ## Achievements Table (Developer)
 
