@@ -13,12 +13,12 @@ If you need help in servers I moderate, feel free to reach out via DMs. As a sta
 | Particulars             | Amount    | Description                                               |
 | ----------------------- | --------- | --------------------------------------------------------- |
 | Messages Sent           | 1,250,000+ | Total amount of messages sent on Discord and other platforms.|
-| Talked To               | 5,000+    | Amount of distinct users I've communicated with.           |
-| Moderation Cases        | 9,500+    | The amount of moderation cases issued.                     |
-| Reports Handled         | 1,250+    | The amount of reports I have handled, including your in-chat reports!|
+| Talked To               | 7,000+    | Amount of distinct users I've communicated with.           |
+| Moderation Cases        | 12,500+    | The amount of moderation cases issued.                     |
+| Reports Handled         | 2,250+    | The amount of reports I have handled, including your in-chat reports!|
 | Reports Made            | 2,500+    | The amount of reports I have published to combat rule violators.|
-| Appeals Handled         | 10,000+    | The amount of appeals against moderation I have handled.   |
-| Investigations Lead     | 3,500+    | In-detail investigations done in order to keep you safe while you don't even know!|
+| Appeals Handled         | 15,000+    | The amount of appeals against moderation I have handled.   |
+| Investigations Lead     | 4,500+    | In-detail investigations done in order to keep you safe while you don't even know!|
 | Mentored            | 150+    | Amount of people I have mentored one-on-one throughout.|
 | Interviewees Conducted | 120+      | This is how many interviews I have conducted in a professional environment.|
 | Thank you's Received    | 10,000+   | I appreciate each and every thank you given to me.|
@@ -27,9 +27,9 @@ If you need help in servers I moderate, feel free to reach out via DMs. As a sta
 
 | Particulars                  | Amount    | Description                                                        |
 | ---------------------------- | --------- | ------------------------------------------------------------------ |
-| Folders                      | 320+      | The amount of folders my workstation has!                           |
-| Files                        | 3,500+    | These are how many files I have in my workstation.                  |
-| Lines of Code                | 210,000+  | I have written these many lines of code.                           |
-| Developer Platforms Explored | 80+       | The amount of developer platforms I have explored.                 |
-| Deployed Projects            | 20+       | The amount of projects I have deployed for public use, like Discord bots!|
+| Folders                      | 360+      | The amount of folders my workstation has!                           |
+| Files                        | 4,500+    | These are how many files I have in my workstation.                  |
+| Lines of Code                | 350,000+  | I have written these many lines of code.                           |
+| Developer Platforms Explored | 100+       | The amount of developer platforms I have explored.                 |
+| Deployed Projects            | 30+       | The amount of projects I have deployed for public use, like Discord bots!|
 
