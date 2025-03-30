@@ -12,16 +12,16 @@ If you need help in servers I moderate, feel free to reach out via DMs. As a sta
 
 | Particulars             | Amount    | Description                                               |
 | ----------------------- | --------- | --------------------------------------------------------- |
-| Messages Sent           | 1,250,000+ | Total amount of messages sent on Discord and other platforms.|
-| Talked To               | 7,000+    | Amount of distinct users I've communicated with.           |
-| Moderation Cases        | 12,500+    | The amount of moderation cases issued.                     |
-| Reports Handled         | 2,250+    | The amount of reports I have handled, including your in-chat reports!|
-| Reports Made            | 2,500+    | The amount of reports I have published to combat rule violators.|
-| Appeals Handled         | 15,000+    | The amount of appeals against moderation I have handled.   |
-| Investigations Lead     | 4,500+    | In-detail investigations done in order to keep you safe while you don't even know!|
-| Mentored            | 150+    | Amount of people I have mentored one-on-one throughout.|
-| Interviewees Conducted | 120+      | This is how many interviews I have conducted in a professional environment.|
-| Thank you's Received    | 10,000+   | I appreciate each and every thank you given to me.|
+| Messages Sent           | 2,000,000+ | Total amount of messages sent on Discord and other platforms.|
+| Talked To               | 10,000+    | Amount of distinct users I've communicated with.           |
+| Moderation Cases        | 15,500+    | The amount of moderation cases issued.                     |
+| Reports Handled         | 3,500+    | The amount of reports I have handled, including your in-chat reports!|
+| Reports Made            | 3,500+    | The amount of reports I have published to combat rule violators.|
+| Appeals Handled         | 20,000+    | The amount of appeals against moderation I have handled.   |
+| Investigations Lead     | 5,500+    | In-detail investigations done in order to keep you safe while you don't even know!|
+| Mentored            | 175+    | Amount of people I have mentored one-on-one throughout.|
+| Interviews Conducted | 150+      | This is how many interviews I have conducted in a professional environment.|
+| Thank you's Received    | 12,500+   | I appreciate each and every thank you given to me.|
 
 ## Achievements Table (Developer)
 
